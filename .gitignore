@@ -1,0 +1,15 @@
+node_modules
+DownloadCache/
+.vs
+[Bb]in
+[Oo]bj
+*.dll
+*.pdb
+*.exe
+*.dbmdl
+*.jfm
+
+
+
+
+*.tar
